@@ -1,4 +1,6 @@
 WEATHER APP (MERN Stack)
+
+
 This project is a Weather Dashboard application built using the MERN stack. It integrates the OpenWeather API to fetch weather data based on user input and provides a clean, interactive interface to display results.
 
 
