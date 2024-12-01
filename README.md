@@ -58,8 +58,3 @@ Example Usage
 2. Enter a city name, such as New York, and click "Get Weather."
 3. View the temperature, humidity, and weather description.
 
-
-Future Improvements
-- Add persistent data storage to avoid repetitive API calls.
-- Integrate charts for better data visualization.
-- Implement server-side filtering for improved performance.
